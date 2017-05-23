@@ -10,6 +10,7 @@ namespace Booler
     [Serializable]
     public class Code
     {
+        bool flag;
         /// <summary>
         /// Порождающая матрица кода.
         /// </summary>
