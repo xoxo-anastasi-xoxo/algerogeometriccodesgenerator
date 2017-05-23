@@ -1,0 +1,52 @@
+﻿<Window x:Class="Генератор_алгеброгеометрических_кодов.CodeDescriptionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Генератор_алгеброгеометрических_кодов"
+        mc:Ignorable="d"
+         Title="Генератор алгеброгеометрических кодов" Height="450" Width="625" ResizeMode="CanMinimize" Icon="Properties/mainIcon.png">
+    <Window.Background>
+        <ImageBrush ImageSource="Properties/fon.jpg" TileMode="FlipXY" Stretch="UniformToFill"/>
+    </Window.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="81*"/>
+            <RowDefinition Height="274*"/>
+            <RowDefinition Height="66*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="PreviousWindowButton" Content="" HorizontalAlignment="Left"  Style="{StaticResource GlassButton}" Margin="10,1,0,0"
+                VerticalAlignment="Top" Width="55" Height="55" Foreground="{x:Null}" BorderBrush="{x:Null}" 
+                Click="PreviousWindowButton_Click" Grid.Row="2">
+            <Button.Background>
+                <ImageBrush ImageSource="Properties/previousWindow-icone.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Label Content="Характеристики полученного кода" HorizontalAlignment="Center" Margin="74,22,74,23" VerticalAlignment="Center" FontStyle="Italic" FontSize="20" Foreground="#FF051A3E" FontWeight="Bold" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Height="36" Width="471"/>
+        <ScrollViewer HorizontalAlignment="Center" Height="240" Margin="0" Grid.Row="1" VerticalAlignment="Center" Width="471" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Disabled" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">
+            <TextBox x:Name="infoTextBox" Height="232" TextWrapping="Wrap"  Width="464"
+                     IsManipulationEnabled="True" Background="White"
+                     BorderBrush="{x:Null}" SelectionBrush="#FF74BEF9" 
+                     Foreground="#FF051A3E" HorizontalAlignment="Left"
+                     VerticalAlignment="Top" FontFamily="Courier New" MinWidth="464"
+                     MinHeight="232" Opacity="0.77" IsReadOnly="True"/>
+        </ScrollViewer>
+        <Button x:Name="saveButton" Content="" HorizontalAlignment="Left"  
+                Style="{StaticResource GlassButton}" Margin="83,1,0,0" 
+                VerticalAlignment="Top" Width="55" Height="55"
+                Foreground="{x:Null}" BorderBrush="{x:Null}"  Grid.Row="2"
+                Click="SaveButton_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Properties/save-icon.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="nextWindowButton" Content="" HorizontalAlignment="Left"  Style="{StaticResource GlassButton}" Margin="157,1,0,0"
+                VerticalAlignment="Top" Width="55" Height="55" Foreground="{x:Null}" BorderBrush="{x:Null}"
+                Grid.Row="2" Click="NextWindowButton_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Properties/nextWindow-icone.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <TextBlock x:Name="littleTextBlock" HorizontalAlignment="Left" Margin="255,20,0,0" Grid.Row="2" TextWrapping="Wrap"  VerticalAlignment="Top" Width="333" Foreground="#FF03063C" FontWeight="Bold" FontStyle="Italic"/>
+    </Grid>
+</Window>

@@ -1,0 +1,27 @@
+﻿<Window x:Class="Генератор_алгеброгеометрических_кодов.RulesWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Генератор_алгеброгеометрических_кодов"
+        mc:Ignorable="d"
+            Title="Генератор алгеброгеометрических кодов" Height="400" Width="450" ResizeMode="NoResize" Icon="Properties/mainIcon.png">
+    <Window.Background>
+        <ImageBrush ImageSource="Properties/fon.jpg" TileMode="FlipXY" Stretch="UniformToFill"/>
+    </Window.Background>
+    <Grid Margin="0,0,3,0">
+
+        <ScrollViewer HorizontalAlignment="Left" Height="301"    Margin="20,49,0,0" VerticalAlignment="Top" Width="400" Background="White" VerticalScrollBarVisibility="Auto" Opacity="0.8">
+            <StackPanel>
+                <Label Content="    Обязательно укажите общее число переменных.&#xA;    Все операции производятся над полем Z2.&#xA;    Допустимые свободные члены: 1 и 0.&#xA;    Допустимые имена переменных: x1,x2,x3,...,x10. Количество &#xD;&#xA;переменных совпадает с максимальным индексом при x. Если &#xD;&#xA;не удается ввести x, проверьте регистр и раскладку клавиатуры.&#xA;    Переменные могут появляться в уравнениях в прозвольном &#xA;порядке.&#xA;    Некоторые переменные могут отсутствовать.&#xA;    Коэффициенты перед переменными не допустимы.&#xA;    Допустимые арифметические знаки: +и =.&#xA;    Операция умножения допустима только между переменными и &#xA;не имеет знакового обозначения."></Label>
+                <Label Content="    ПРИМЕР&#xD;&#xA;    Требуется ввести систему из следующих уравнений от 8 &#xD;&#xA;переменных:" />
+                <Image Source="Properties/exampleSystem.png" Height="100" />
+                <TextBlock Text="Ввод в поля Генератора алгеброгеометрических кодов:" />
+                <Image Source="Properties/exampleSystemInMyProgram.png" Height="200" />
+                <Label></Label>
+            </StackPanel>
+        </ScrollViewer>
+        <Label Content="Указания к вводу системы нелинейных уравнений" Foreground="#FF051A3E"  HorizontalAlignment="Left" Margin="64,18,0,0" VerticalAlignment="Top" FontStyle="Italic" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

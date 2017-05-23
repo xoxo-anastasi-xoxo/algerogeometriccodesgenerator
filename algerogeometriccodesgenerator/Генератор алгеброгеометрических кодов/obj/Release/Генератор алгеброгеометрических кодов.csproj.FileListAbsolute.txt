@@ -1,0 +1,97 @@
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\bin\Release\Генератор алгеброгеометрических кодов.exe.config
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\bin\Release\Генератор алгеброгеометрических кодов.exe
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\bin\Release\Генератор алгеброгеометрических кодов.pdb
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\Генератор алгеброгеометрических кодов.csprojResolveAssemblyReference.cache
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\MainWindow.g.cs
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\SelectCodeWindow.g.cs
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\CodeGeneratingWindow.g.cs
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\CodeDescriptionWindow.g.cs
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\CodeWindow.g.cs
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\FQWindow.g.cs
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\InfoWindow.g.cs
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\RulesWindow.g.cs
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\СhoiceWindow.g.cs
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\App.g.cs
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\Генератор алгеброгеометрических кодов_MarkupCompile.cache
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\Генератор алгеброгеометрических кодов_MarkupCompile.lref
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\App.baml
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\MainWindow.baml
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\SelectCodeWindow.baml
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\CodeGeneratingWindow.baml
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\CodeDescriptionWindow.baml
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\CodeWindow.baml
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\FQWindow.baml
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\InfoWindow.baml
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\RulesWindow.baml
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\СhoiceWindow.baml
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\Генератор алгеброгеометрических кодов.g.resources
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\Генератор_алгеброгеометрических_кодов.Properties.Resources.resources
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\Генератор алгеброгеометрических кодов.csproj.GenerateResource.Cache
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\Генератор алгеброгеометрических кодов.exe
+C:\Users\nasty\Documents\Visual Studio 2017\Projects\0000\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\Генератор алгеброгеометрических кодов.pdb
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\Генератор алгеброгеометрических кодов.csprojResolveAssemblyReference.cache
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\DescribtionWindow.g.cs
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\MainWindow.g.cs
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\SelectCodeWindow.g.cs
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\CodeGeneratingWindow.g.cs
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\CodeDescriptionWindow.g.cs
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\CodeWindow.g.cs
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\FQWindow.g.cs
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\InfoWindow.g.cs
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\RulesWindow.g.cs
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\СhoiceWindow.g.cs
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\App.g.cs
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\Генератор алгеброгеометрических кодов_MarkupCompile.cache
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\Генератор алгеброгеометрических кодов_MarkupCompile.lref
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\Генератор алгеброгеометрических кодов.exe
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\Генератор алгеброгеометрических кодов.pdb
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\bin\Release\Генератор алгеброгеометрических кодов.exe.config
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\bin\Release\Генератор алгеброгеометрических кодов.exe
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\bin\Release\Генератор алгеброгеометрических кодов.pdb
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\App.baml
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\DescribtionWindow.baml
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\MainWindow.baml
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\SelectCodeWindow.baml
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\CodeGeneratingWindow.baml
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\CodeDescriptionWindow.baml
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\CodeWindow.baml
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\FQWindow.baml
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\InfoWindow.baml
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\RulesWindow.baml
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\СhoiceWindow.baml
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\Генератор алгеброгеометрических кодов.g.resources
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\Генератор_алгеброгеометрических_кодов.Properties.Resources.resources
+C:\Users\nasty\Desktop\Курсовая работа 1\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\Генератор алгеброгеометрических кодов.csproj.GenerateResource.Cache
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\bin\Release\Генератор алгеброгеометрических кодов.exe.config
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\bin\Release\Генератор алгеброгеометрических кодов.exe
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\bin\Release\Генератор алгеброгеометрических кодов.pdb
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\Генератор алгеброгеометрических кодов.csprojResolveAssemblyReference.cache
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\DescribtionWindow.g.cs
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\MainWindow.g.cs
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\SelectCodeWindow.g.cs
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\CodeGeneratingWindow.g.cs
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\CodeDescriptionWindow.g.cs
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\CodeWindow.g.cs
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\FQWindow.g.cs
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\InfoWindow.g.cs
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\RulesWindow.g.cs
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\СhoiceWindow.g.cs
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\App.g.cs
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\Генератор алгеброгеометрических кодов_MarkupCompile.cache
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\Генератор алгеброгеометрических кодов_MarkupCompile.lref
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\App.baml
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\DescribtionWindow.baml
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\MainWindow.baml
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\SelectCodeWindow.baml
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\CodeGeneratingWindow.baml
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\CodeDescriptionWindow.baml
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\CodeWindow.baml
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\FQWindow.baml
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\InfoWindow.baml
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\RulesWindow.baml
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\СhoiceWindow.baml
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\Генератор алгеброгеометрических кодов.g.resources
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\Генератор_алгеброгеометрических_кодов.Properties.Resources.resources
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\Генератор алгеброгеометрических кодов.csproj.GenerateResource.Cache
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\Генератор алгеброгеометрических кодов.exe
+C:\Users\nasty\Desktop\Генератор алгерогеометрических кодов\Генератор алгеброгеометрических кодов\Генератор алгеброгеометрических кодов\obj\Release\Генератор алгеброгеометрических кодов.pdb

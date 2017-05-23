@@ -1,0 +1,19 @@
+﻿<Window x:Class="Генератор_алгеброгеометрических_кодов.DescribtionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Генератор_алгеброгеометрических_кодов"
+        mc:Ignorable="d"
+              Title="Генератор алгеброгеометрических кодов" Height="200" Width="350" Icon="Properties/MainIcon.png" ResizeMode="NoResize" >
+    <Window.Background>
+        <ImageBrush ImageSource="Properties/fon.jpg"/>
+    </Window.Background>
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Top">
+        <Label Height="45" />
+        <Label x:Name="K" Height="30" FontStyle="Italic" Background="White" Foreground="#FF051A3E" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Center" Opacity="0.8" Width="320" />
+        <Label x:Name="N" Height="30" Opacity="0.8" FontStyle="Italic" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" HorizontalAlignment="Center" Foreground="#FF051A3E" Background="#FFFBF8F8" Width="320" />
+        <Label x:Name="T"  Height="30" Opacity="0.8" FontStyle="Italic" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" HorizontalAlignment="Center" Foreground="#FF051A3E" Background="#FFFBF8F8" Width="320" />
+        <Label/>
+    </StackPanel>
+</Window>

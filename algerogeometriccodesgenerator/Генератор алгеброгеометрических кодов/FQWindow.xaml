@@ -1,0 +1,91 @@
+﻿<Window x:Class="Генератор_алгеброгеометрических_кодов.FQWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Генератор_алгеброгеометрических_кодов"
+        mc:Ignorable="d"
+         Title="Генератор алгеброгеометрических кодов" Height="450" Width="625" 
+        ResizeMode="CanMinimize" Icon="Properties/mainIcon.png" >
+    <Window.Background>
+        <ImageBrush ImageSource="Properties/fon.jpg" TileMode="FlipXY"
+                    Stretch="UniformToFill"/>
+    </Window.Background>
+    <Grid Opacity="0.898">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75*"/>
+            <RowDefinition Height="270*"/>
+            <RowDefinition Height="76*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="previousWindowButton" Content="" HorizontalAlignment="Left"  
+                Style="{StaticResource GlassButton}" Margin="10,11,0,0" VerticalAlignment="Top" Width="55"
+                Height="55" Foreground="{x:Null}" BorderBrush="{x:Null}" Click="PreviousWindowButton_Click" Grid.Row="2">
+            <Button.Background>
+                <ImageBrush ImageSource="Properties/previousWindow-icone.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Label Content="Справка" HorizontalAlignment="Center" Margin="0,13,0,0" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="22" Foreground="#FF051A3E" FontStyle="Italic" FontWeight="Bold"/>
+        <ScrollViewer HorizontalAlignment="Center" Height="250" Margin="0" VerticalAlignment="Center" Width="520" Grid.Row="1" Background="#FFFDFDFD" Foreground="#FF051A3E" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">
+            <StackPanel Height="2319" Width="510">
+              
+                <Label Content="           Здравствуйте! Вас приветствует Генератор алгеброгеометрических кодов.&#xA;
+          Алгеброгеометрические коды - особая группа корректирующих кодов, стоящихся&#xD;&#xA;
+на основе алгебраических многообразий(множеств решений систем алгебраических &#xA;
+уравнений  над конечными полями). Данная програма поможет понять,&#xA; 
+как строятся и работают алгеброгеометрические коды, а также оценить их &#xA;
+несомненное преимущество перед иными классами корректирующих кодов. &#xA;
+          Для наиболее эффективного использования данного програмного продукта&#xA;
+ознакомьтесь с ниже приведенной справкой." Foreground="#FF051A3E" FontStyle="Italic" MaxWidth="510" />
+                <Label Content="           Для начала работы с приложением нажмите кнопку 1.&#xD;&#xA;
+          Если Вы хотите получить справочную информацию, нажмите кнопку 2. &#xD;&#xA;          
+Для получения сведений о разработчике программы нажмите кнопку 3." Foreground="#FF051A3E" FontStyle="Italic" />
+                <Image Source="Properties/help1.png" Height="270" />
+                <Label Content="           После начала работы с программой Вам будет предложено в поле 4 выбрать &#xD;&#xA;
+алгеброгеометрический код, с которым Вы будете работать. Все сохраненные &#xD;&#xA;
+коды имеют стандартные имена, отражающие их основные характеристики: &#xD;&#xA;
+длина кодируемого слова, длина кодового слова и количество исправляемых ошибок. &#xD;&#xA;
+          Также имеется возможность создать новый код.&#xD;&#xA;
+          Выбрав в поле 4 код, Вы можете продолжить с ним работать, нажав кнопку 3,&#xD;&#xA;
+либо удалить его, нажав кнопку 2. &#xD;&#xA; 
+          Для того чтобы вернуться к предыдущему окну, нажмите кнопку 1." Foreground="#FF051A3E" FontStyle="Italic" />
+                <Image Source="Properties/help2.png" Height="270" />
+                <Label Content="          Выбрав создание нового кода, Вы получите возможность ввести свою систему &#xD;&#xA;
+уравнений, на основе которой будет полученно нужное нам алгебраическое &#xD;&#xA;
+многообразие. &#xD;&#xA;     
+     Предварительно следует в поле 1 выбрать количество переменных, &#xD;&#xA;
+содержащихся в Вашей системе. Количество переменных в то же время является &#xD;&#xA;
+длиной кодируемых слов для создаваемого кода. &#xD;&#xA;       
+    Записать систему можно в поле 2. &#xD;&#xA;
+           Для того чтобы ознакомиться с правилами записи уравнений, нажмите&#xD;&#xA; 
+кнопку 4. &#xD;&#xA;
+           Чтобы вернуться к выбору кода, нажмите кнопку 3. Если система записана  &#xD;&#xA;
+и Вы готовы продолжить работу, нажмите кнопку 5.&#xD;&#xA;" Foreground="#FF051A3E" FontStyle="Italic" />
+                <Image Source="Properties/help3.png" Height="270" />
+                 <Label Content="          В поле 1 Вы сможете увидеть основную информацию о получившемся коде:  &#xD;&#xA;
+длину кодируемого и кодового слов, максимальное количество исправляемых &#xD;&#xA;
+ошибок, а также порождающую матрицу кода. &#xD;&#xA;     
+     Порождающая матрица для алгеброгеометрического кода - это все элементы &#xD;&#xA;
+алгебраического многообразия, расположенные по столбцам матрицы. При &#xD;&#xA;
+кодировании вектор-слово будет умножаться на эту матрицу, образуя другое вектор-&#xD;&#xA;
+слово, длина которого будет равна количеству решений вводимой ранее системы&#xD;&#xA;
+уравнений. &#xD;&#xA;
+          Для того чтобы вернуться к одному из предыдущих шагов или &#xD;&#xA;
+посмотреть систему уравнений, нажмите кнопку 2. &#xD;&#xA;  
+        Для сохранения полученного кода в памяти программы нажмите кнопку 3. &#xD;&#xA;     
+     Для продолжения работы нажмите кнопку 4.&#xD;&#xA;" Foreground="#FF051A3E" FontStyle="Italic" />
+                <Image Source="Properties/help4.png" Height="270" />
+                <Label Content="            В следующем окне Вы получаете возможность протестировать Ваш код.&#xD;&#xA;
+           В поле 1 выберите желаемое действие Кодирование или Декодирование.&#xD;&#xA;  
+         В зависимости от выбранной операции введите в поле 2 сообщение. &#xD;&#xA;         
+  Нажав на кнопку 4, в поле 3 Вы получите результат кодирования или декодирования. &#xD;&#xA; 
+          Поле 5 создано для хранения любой нужной пользователю информации. &#xD;&#xA;  
+         При наведении на поле 7 Вы повторно получите информацию от характеристиках Вашего &#xD;&#xA;
+кода. &#xD;&#xA;        
+    Для возвращения к предыдущему окну нажмите кнопку 6.&#xD;&#xA;" Foreground="#FF051A3E" FontStyle="Italic" />
+                <Image Source="Properties/help5.png" Height="270" />
+                <Label Content="           Желаем Вам приятного пользования!" Foreground="#FF051A3E" FontStyle="Italic" />
+
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Window>
